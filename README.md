@@ -1,2 +1,2 @@
-# pedra_papel_testoura
-jogo simples de peedra papel e tesoura utilizando java 
+# Rock_Paper_Scissors
+Simple rock-paper-scissors game using Java.
